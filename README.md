@@ -2,8 +2,6 @@ Rocketnotes
 
 Aplicação web para organização de notas com tags, desenvolvida em **React**.
 
-Esse projeto faz parte dos meus estudos de front-end, mas foi evoluído para ser um projeto de portfólio, com fluxo completo de criação, listagem, visualização e exclusão de notas.
-
 ---
 
 ## ✨ Funcionalidades
